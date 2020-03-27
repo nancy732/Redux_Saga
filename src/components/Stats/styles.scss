@@ -1,0 +1,12 @@
+@import "../../partial/base";
+
+.stats {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  color: $background;
+  padding: 5px 18px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  font-size: 0.8rem;
+}
